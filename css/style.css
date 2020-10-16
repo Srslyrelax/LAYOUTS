@@ -46,3 +46,27 @@ html {
     width: 95%;
     border-style: solid;
    }
+
+   #base {
+     font-size: 20px;
+   }
+
+   #pctdemo {
+     font-size: 200%;
+   }
+
+   #emdemo {
+     font-size: 3em;
+   }
+
+   #remdemo {
+     font-size: 3rem;
+   }
+
+   #vwdemo {
+     font-size: 2vw;
+   }
+
+   #vhdemo {
+     font-size: 2vh;
+   }
